@@ -7,4 +7,7 @@
         </meta>
         </meta>
     </head>
+    <body>
+        <header></header>
+    </body>
 </html>
