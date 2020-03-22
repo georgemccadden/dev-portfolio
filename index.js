@@ -10,7 +10,7 @@
     <body>
         <header>
             <div class="logo">
-                <img src="img/devgeorge.png" alt="japanese drawn man with blue painted brush stroke"></img>
+                <img src="img/devgeorge.jpg" alt="japanese drawn man with blue painted brush stroke"></img>
             </div>
         </header>
     </body>
