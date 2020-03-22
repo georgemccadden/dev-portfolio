@@ -12,8 +12,10 @@
             <div class="logo">
                 <img src="img/devgeorge.jpg" alt="japanese drawn man with blue painted brush stroke"></img>
             </div>
-            <button class="nav-toggle" aria-label="toggle navigation"></button>
-            
+            <button class="nav-toggle" aria-label="toggle navigation">
+                <span class="hamburger"></span>
+            </button>
+
         </header>
     </body>
 </html>
