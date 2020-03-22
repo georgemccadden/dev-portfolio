@@ -8,6 +8,10 @@
         </meta>
     </head>
     <body>
-        <header></header>
+        <header>
+            <div class="logo">
+                <img src="img/devgeorge.png" alt="japanese drawn man with blue painted brush stroke"></img>
+            </div>
+        </header>
     </body>
 </html>
